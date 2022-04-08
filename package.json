@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1110.0",
+    "gunzip-file": "^0.1.1"
+  },
+  "type": "module"
+}
